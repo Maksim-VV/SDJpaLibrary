@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/libdb?useSSL=false&serverTimezone=UTC
+    username: root
+    password: root
+    initialization-mode: always
+    
+logging:
+  level:
+    root: error
+
