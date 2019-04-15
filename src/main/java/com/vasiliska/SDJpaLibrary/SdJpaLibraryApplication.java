@@ -8,10 +8,6 @@ public class SdJpaLibraryApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SdJpaLibraryApplication.class, args);
-
-        
-
-
     }
 
 }
